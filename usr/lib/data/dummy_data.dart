@@ -1,8 +1,8 @@
-import 'models/user.dart';
-import 'models/homework.dart';
-import 'models/notice.dart';
-import 'models/result.dart';
-import 'models/teacher.dart';
+import '../models/user.dart';
+import '../models/homework.dart';
+import '../models/notice.dart';
+import '../models/result.dart';
+import '../models/teacher.dart';
 
 // Dummy data for demonstration purposes (no backend)
 List<User> dummyUsers = [
